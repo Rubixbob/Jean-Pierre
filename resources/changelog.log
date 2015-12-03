@@ -2,5 +2,9 @@
 Benoit: 
 
 - Amélioration graphique des tilesets.
+- Ajout de la neige et glace (tileset).
 - Ajout saut + hero.png.
 - Creation du charset slime.png.
+- Creation dossier charset.
+
+Remarque: Oui il n'y a plus qu'une seule brique, ça rend mieux!
